@@ -8,6 +8,7 @@ body {
     float: right;
     padding: 10px;
     border: 1px solid #f03030;
+    margin-left: 10px;
 }
 
 .slika {
@@ -15,6 +16,9 @@ body {
     height: 150px;
 }
 
+p {
+    text-align: justify;
+}
 
 ul {
     padding-inline-start: 0px;
