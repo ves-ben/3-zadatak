@@ -1,0 +1,49 @@
+body {
+    background-color: #e0e0e0;
+    color: #f03030;
+    font-family: Georgia, serif;
+}
+
+.poll {
+    float: right;
+    padding: 10px;
+    border: 1px solid #f03030;
+}
+
+.slika {
+    width: 175px;
+    height: 150px;
+}
+
+
+ul {
+    padding-inline-start: 0px;
+}
+
+li {
+    text-align: center;
+}
+
+span {
+    font-size: 20px;
+    font-style: italic;
+}
+
+div { 
+    border: 1px solid #f03030;
+    padding: 0px;
+    width: 175px;
+    display: inline-flex;
+}
+
+.img-l {
+    float: right;
+    padding: 10px;
+    border: 1px solid #f03030;
+    width: 70%;
+    margin-left: 10px;
+}
+
+.p-l {
+    text-align: justify;
+}
